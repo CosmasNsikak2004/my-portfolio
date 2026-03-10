@@ -52,8 +52,8 @@ const Projects = () => {
       title: 'Portfolio Website',
       description: 'A modern, responsive portfolio website showcasing projects and skills with smooth animations and optimized performance.',
       image: 'https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=compress&cs=tinysrgb&w=800',
-      technologies: ['Next.js', 'React', 'Tailwind CSS', 'Framer Motion'],
-      liveUrl: 'https://example-portfolio.com',
+      technologies: ['Next.js', 'React', 'Tailwind CSS',],
+      liveUrl: 'https://mbwebsite-tau.vercel.app/',
       githubUrl: 'https://github.com/username/portfolio',
       featured: false
     },
