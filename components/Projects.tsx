@@ -55,7 +55,7 @@ const Projects = () => {
       technologies: ['Next.js', 'React', 'Tailwind CSS',],
       liveUrl: 'https://mbwebsite-tau.vercel.app/',
       githubUrl: 'https://github.com/username/portfolio',
-      featured: false
+      featured: true
     },
     {
       id: 6,
